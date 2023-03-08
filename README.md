@@ -1,1 +1,1 @@
-# kenethy.io
+# kenethy
